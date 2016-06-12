@@ -6,5 +6,7 @@ To run it from the command line:
 * dotnet run
 * webpack -p -w (in another console window)
 
+Or you can launch from Visual Studio community edition.
+
 
 
